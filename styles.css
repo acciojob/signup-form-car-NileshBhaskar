@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+label{
+	display:block;
+	margin:10px;
+}
